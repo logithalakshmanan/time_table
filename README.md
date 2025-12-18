@@ -1,4 +1,4 @@
-# Ex03 Time Table
+# Ex02 Time Table
 # Date:29/11/20225
 
 # AIM
